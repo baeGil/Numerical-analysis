@@ -1,6 +1,6 @@
-# Plan and Solve System
+# Numerical Analysis Solver
 
-Hệ thống AI giải quyết các bài toán toán học phức tạp sử dụng phương pháp "Plan and Solve" với LangGraph
+Hệ thống AI giải quyết các bài toán numerical analysis phức tạp sử dụng phương pháp "Plan and Solve" với LangGraph
 
 ## 🚀 Tính năng chính
 
