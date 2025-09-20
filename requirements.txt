@@ -1,0 +1,33 @@
+# Core LangChain and LangGraph
+langchain>=0.1.0
+langgraph>=0.0.40
+langchain-core>=0.1.0
+
+# Google Gemini integration
+langchain-google-genai>=1.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Data validation
+pydantic>=2.0.0
+
+# Web tools and search
+duckduckgo-search>=3.9.0
+arxiv>=1.4.0
+wikipedia>=1.4.0
+
+# E2B Sandbox (optional)
+e2b>=0.15.0
+
+# HTTP requests
+requests>=2.31.0
+
+# JSON handling
+orjson>=3.9.0
+
+# Async support
+aiohttp>=3.8.0
+
+# Utilities
+typing-extensions>=4.7.0
