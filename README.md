@@ -46,7 +46,7 @@ E2B_API_KEY=your_e2b_api_key_here
 
 Trong file `main.py` tìm tìm đến dòng ở cuối file:
 ```python 
-sample = "Bằng phương pháp dây cung,...
+sample = "Bằng phương pháp dây cung,..."
 ```
 Thay sample bằng bài toán cụ thể của bạn 
 
