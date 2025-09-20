@@ -96,6 +96,7 @@ sample = "Bằng phương pháp dây cung, tìm nghiệm gần đúng của phư
 - `pde`: Phương trình đạo hàm riêng
 - `optimization_unconstrained`: Bài toán tối ưu không ràng buộc
 - `other`: Các bài toán khác
+
 Hiện tại mình vẫn đang thử nghiệm cho các dạng toán này, không chắc chắn giải được mọi bài toán.
 
 **Returns:**
