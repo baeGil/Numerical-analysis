@@ -22,7 +22,6 @@ Hệ thống AI giải quyết các bài toán numerical analysis phức tạp s
 1. **Clone repository**
 ```bash
 git clone https://github.com/baeGil/Numerical-analysis.git
-cd "Plan and Solve"
 ```
 
 2. **Cài đặt dependencies**
